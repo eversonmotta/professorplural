@@ -1,0 +1,86 @@
+
+
+
+
+
+.texto1 {
+    color: black;
+    font-family: ui-monospace;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0;
+    background-position:  top;
+    letter-spacing: 0px;
+    object-position:top;
+    
+ }
+
+.btn {
+    position: center;
+    top: 70px;
+    left: 100px;
+    color:violet;
+
+}
+
+.nuvem2
+{
+    float: center;
+    width: 1300px;
+    height: 200px;
+    align-items: left;
+    position:absolute;
+    top: 40px;
+    background-image:bottom;
+    opacity: 60%;
+    
+}    
+ 
+.logo {
+
+    float: center;
+    width: 1300px;
+    height: 300px;
+    align-items: center;
+    position:absolute;
+    top: 210px;
+    background-image:none    
+}
+
+ .texto2 {
+
+    color: gray;
+    font-family: Cambria;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 300;
+    margin-bottom: 0rem;
+    
+  
+ }
+
+ .carrocel {
+
+      }
+
+.nuvem_meio {
+
+    position: absolute;
+    background-image:bottom;
+    opacity: 60%;
+    left: 0px;
+    top: 1200px;
+
+}
+.ético_lgpd {
+    font-weight: 80px;
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+.texto3 {
+
+    top: center;
+
+}
